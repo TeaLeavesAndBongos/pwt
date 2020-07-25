@@ -1,5 +1,6 @@
-@import “/layout.css”;
-@import “/typography.css”;
+@import url("layout.css");
+
+@import “./typography.css”;
 
 nav ul {
     display:flex;
